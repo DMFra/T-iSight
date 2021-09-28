@@ -7,3 +7,4 @@ With telegram you can control the camera to get a photo or live broadcast.
 For all instruction please download the zip code, extract and follow my guide [here!](https://dm-fra.blogspot.com/p/t-isight.html)
 
 ![T-Isight](https://user-images.githubusercontent.com/13753918/131403376-ff149743-a60b-4bf1-a9e8-302915308102.jpg)
+![T-Isight (2)](https://user-images.githubusercontent.com/13753918/135157325-d65cc33d-8481-4d9b-b14a-7afba48d929c.jpg)
